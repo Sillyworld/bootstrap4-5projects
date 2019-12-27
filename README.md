@@ -8,4 +8,4 @@ This is a repository from my code from Bootstrap 4 from scratch with 5 projects 
 * Fourth project is Bloggen, a theme for a 'wordpress' inspired CMS.
 * Fifth and final project is portfoliogrid, a theme for a responsive portfolio webpage.
 
-> All projects were built using bootstrap 4, some custom CSS and a bit of jquery.
+> All projects were built using bootstrap 4, fontawesome for icons, some custom CSS and a bit of jquery.
